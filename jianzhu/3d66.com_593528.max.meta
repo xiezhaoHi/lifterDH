@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 8b2c5e6609f42c941b930c8fe6bfa9ff
+timeCreated: 1533653145
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera01
+    100004: Camera01.Target
+    100006: Camera02
+    100008: Camera02.Target
+    100010: Group-593528-148
+    100012: Group-593528-482
+    100014: Group-593528-714
+    100016: Obj3d66-593528-1-402
+    100018: Obj3d66-593528-10-879
+    100020: Obj3d66-593528-11-368
+    100022: Obj3d66-593528-12-34
+    100024: Obj3d66-593528-13-116
+    100026: Obj3d66-593528-14-573
+    100028: Obj3d66-593528-15-946
+    100030: Obj3d66-593528-16-119
+    100032: Obj3d66-593528-2-679
+    100034: Obj3d66-593528-3-391
+    100036: Obj3d66-593528-4-687
+    100038: Obj3d66-593528-5-541
+    100040: Obj3d66-593528-6-288
+    100042: Obj3d66-593528-7-153
+    100044: Obj3d66-593528-8-831
+    100046: Obj3d66-593528-9-908
+    100048: Spot01
+    100050: Spot01.Target
+    400000: //RootNode
+    400002: Camera01
+    400004: Camera01.Target
+    400006: Camera02
+    400008: Camera02.Target
+    400010: Group-593528-148
+    400012: Group-593528-482
+    400014: Group-593528-714
+    400016: Obj3d66-593528-1-402
+    400018: Obj3d66-593528-10-879
+    400020: Obj3d66-593528-11-368
+    400022: Obj3d66-593528-12-34
+    400024: Obj3d66-593528-13-116
+    400026: Obj3d66-593528-14-573
+    400028: Obj3d66-593528-15-946
+    400030: Obj3d66-593528-16-119
+    400032: Obj3d66-593528-2-679
+    400034: Obj3d66-593528-3-391
+    400036: Obj3d66-593528-4-687
+    400038: Obj3d66-593528-5-541
+    400040: Obj3d66-593528-6-288
+    400042: Obj3d66-593528-7-153
+    400044: Obj3d66-593528-8-831
+    400046: Obj3d66-593528-9-908
+    400048: Spot01
+    400050: Spot01.Target
+    2300000: Obj3d66-593528-1-402
+    2300002: Obj3d66-593528-10-879
+    2300004: Obj3d66-593528-11-368
+    2300006: Obj3d66-593528-12-34
+    2300008: Obj3d66-593528-13-116
+    2300010: Obj3d66-593528-14-573
+    2300012: Obj3d66-593528-15-946
+    2300014: Obj3d66-593528-16-119
+    2300016: Obj3d66-593528-2-679
+    2300018: Obj3d66-593528-3-391
+    2300020: Obj3d66-593528-4-687
+    2300022: Obj3d66-593528-5-541
+    2300024: Obj3d66-593528-6-288
+    2300026: Obj3d66-593528-7-153
+    2300028: Obj3d66-593528-8-831
+    2300030: Obj3d66-593528-9-908
+    3300000: Obj3d66-593528-1-402
+    3300002: Obj3d66-593528-10-879
+    3300004: Obj3d66-593528-11-368
+    3300006: Obj3d66-593528-12-34
+    3300008: Obj3d66-593528-13-116
+    3300010: Obj3d66-593528-14-573
+    3300012: Obj3d66-593528-15-946
+    3300014: Obj3d66-593528-16-119
+    3300016: Obj3d66-593528-2-679
+    3300018: Obj3d66-593528-3-391
+    3300020: Obj3d66-593528-4-687
+    3300022: Obj3d66-593528-5-541
+    3300024: Obj3d66-593528-6-288
+    3300026: Obj3d66-593528-7-153
+    3300028: Obj3d66-593528-8-831
+    3300030: Obj3d66-593528-9-908
+    4300000: Obj3d66-593528-1-402
+    4300002: Obj3d66-593528-2-679
+    4300004: Obj3d66-593528-3-391
+    4300006: Obj3d66-593528-4-687
+    4300008: Obj3d66-593528-5-541
+    4300010: Obj3d66-593528-6-288
+    4300012: Obj3d66-593528-7-153
+    4300014: Obj3d66-593528-8-831
+    4300016: Obj3d66-593528-9-908
+    4300018: Obj3d66-593528-10-879
+    4300020: Obj3d66-593528-11-368
+    4300022: Obj3d66-593528-12-34
+    4300024: Obj3d66-593528-13-116
+    4300026: Obj3d66-593528-14-573
+    4300028: Obj3d66-593528-15-946
+    4300030: Obj3d66-593528-16-119
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
